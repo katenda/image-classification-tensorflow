@@ -1,5 +1,8 @@
 # Project Name
-Image classification using tensorflow.
+Image classification  using tensorflow.
+
+# Project description
+This is an image classification built and tested with tensorflow
 
 # virtual environment setup
 python3 -m venv venv
